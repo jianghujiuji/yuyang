@@ -1,0 +1,13 @@
+.yy{
+    text-align: center;
+    background-color: rgba(77, 34, 34, 0.192);
+}
+.lineheight{
+    /* display:block; */
+    color: rgb(236, 132, 132);
+    font-weight: bolder;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
